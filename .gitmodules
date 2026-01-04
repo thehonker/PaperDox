@@ -1,0 +1,6 @@
+[submodule "PCB/lib/keyboard_reversible.pretty"]
+	path = PCB/lib/keyboard_reversible.pretty
+	url = https://github.com/50an6xy06r6n/keyboard_reversible.pretty.git
+[submodule "PCB/lib/nice-nano-kicad"]
+	path = PCB/lib/nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad.git

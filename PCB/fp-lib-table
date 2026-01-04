@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "keyboard_reversible")(type "KiCad")(uri "${KIPRJMOD}/lib/keyboard_reversible.pretty")(options "")(descr ""))
+)
